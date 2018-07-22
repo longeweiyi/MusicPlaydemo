@@ -1,0 +1,29 @@
+[
+    {
+        "image": "./source/meiyanfang.jpg",
+        "audio": "./source/梅艳芳-夕阳之歌 (Live).mp3",
+        "song": "夕阳之歌",
+        "album": "梅艳芳经典金曲演唱会",
+        "singer": "梅艳芳",
+        "duration": 300,
+        "isLike": true
+    },
+    {
+        "image": "./source/beyond.jpg",
+        "audio": "./source/beyond -灰色轨迹.mp3",
+        "song": "灰色轨迹",
+        "album": "Beyond",
+        "singer": "Beyond",
+        "duration": 322,
+        "isLike": true
+    },
+    {
+        "image": "./source/MJ.jpg",
+        "audio": "./source/MichaelJackson-Bad.mp3",
+        "song": "Bad",
+        "album": "Michael Jackson",
+        "singer": "Michael Jackson",
+        "duration": 247,
+        "isLike": false
+    }
+]
